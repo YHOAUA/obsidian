@@ -1,0 +1,24 @@
+{
+  "id": "conv-1777690222893-aqo1pqbiy",
+  "providerId": "claude",
+  "title": "Organize 编程基础 file placement",
+  "titleGenerationStatus": "success",
+  "createdAt": 1777690222894,
+  "updatedAt": 1780372691528,
+  "lastResponseAt": 1777690241185,
+  "sessionId": "d747bc06-0f31-4339-8852-e90bd1193822",
+  "providerState": {
+    "providerSessionId": "d747bc06-0f31-4339-8852-e90bd1193822"
+  },
+  "currentNote": "Categories/游戏开发.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776527148629-ub4in8qsi",
+  "providerId": "claude",
+  "title": "Respond to status check in Chinese",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776527148630,
+  "updatedAt": 1776598632730,
+  "lastResponseAt": 1776527186268,
+  "sessionId": "9a832a2c-12db-43a0-a6f6-e89c3ac76a5b",
+  "providerState": {
+    "providerSessionId": "9a832a2c-12db-43a0-a6f6-e89c3ac76a5b"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

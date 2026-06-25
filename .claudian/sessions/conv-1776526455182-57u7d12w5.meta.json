@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776526455182-57u7d12w5",
+  "providerId": "claude",
+  "title": "Evaluate whiteboard quality",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776526455182,
+  "updatedAt": 1776598638211,
+  "lastResponseAt": 1776526903153,
+  "sessionId": "8b0530c4-e7d3-48b2-981a-7a312bf032bd",
+  "providerState": {
+    "providerSessionId": "8b0530c4-e7d3-48b2-981a-7a312bf032bd"
+  },
+  "currentNote": "ZEN.canvas",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776694029974-pvy50sira",
+  "providerId": "claude",
+  "title": "Explain 双链链接方法",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776694029974,
+  "updatedAt": 1776846457661,
+  "lastResponseAt": 1776694130235,
+  "sessionId": "666e6183-9080-442e-8d2e-ff22a2b32fbc",
+  "providerState": {
+    "providerSessionId": "666e6183-9080-442e-8d2e-ff22a2b32fbc"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776597616151-kg4vs0anm",
+  "providerId": "claude",
+  "title": "恢复被删文件内容",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776597616152,
+  "updatedAt": 1776598628593,
+  "lastResponseAt": 1776597815755,
+  "sessionId": "6d0afc00-6aaf-4e85-a31d-71f61674a4bc",
+  "providerState": {
+    "providerSessionId": "6d0afc00-6aaf-4e85-a31d-71f61674a4bc"
+  },
+  "currentNote": "Categories/AIGC.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

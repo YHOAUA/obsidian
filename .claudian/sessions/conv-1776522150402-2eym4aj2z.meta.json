@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776522150402-2eym4aj2z",
+  "providerId": "claude",
+  "title": "Fix Chinese keyboard hash input issue",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776522150404,
+  "updatedAt": 1776598666788,
+  "lastResponseAt": 1776522195804,
+  "sessionId": "13545918-4c84-45fa-b7b7-015e8c732bc5",
+  "providerState": {
+    "providerSessionId": "13545918-4c84-45fa-b7b7-015e8c732bc5"
+  },
+  "currentNote": "Categories/游戏开发.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

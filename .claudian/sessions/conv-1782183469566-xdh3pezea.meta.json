@@ -1,0 +1,23 @@
+{
+  "id": "conv-1782183469566-xdh3pezea",
+  "providerId": "claude",
+  "title": "帮我看一下为什么obsidian 软件切换笔记文件的时候要转圈圈",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782183469567,
+  "updatedAt": 1782183566542,
+  "lastResponseAt": 1782183566542,
+  "sessionId": "69fbd67e-cc31-403a-b367-1049b5aad390",
+  "providerState": {
+    "providerSessionId": "69fbd67e-cc31-403a-b367-1049b5aad390"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 18,
+    "cacheCreationInputTokens": 970,
+    "cacheReadInputTokens": 35422,
+    "contextWindow": 1000000,
+    "contextTokens": 36410,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}

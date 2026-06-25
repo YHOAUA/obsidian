@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "showRibbon": false,
+  "textFontFamily": "Maple Mono NF CN,iA Writer Quattro S",
+  "monospaceFontFamily": "Maple Mono NF",
+  "interfaceFontFamily": "Maple Mono NF CN",
+  "enabledCssSnippets": [
+    "book-covers"
+  ],
+  "translucency": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776525087972-1facwx89y",
+  "providerId": "claude",
+  "title": "Implement vault workflow and wiki integration",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776525087974,
+  "updatedAt": 1776598646288,
+  "lastResponseAt": 1776526151203,
+  "sessionId": "1c15e73a-4a19-4b5b-900a-339309f7ca17",
+  "providerState": {
+    "providerSessionId": "1c15e73a-4a19-4b5b-900a-339309f7ca17"
+  },
+  "currentNote": "ZEN.canvas",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

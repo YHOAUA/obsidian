@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776846467961-2gins4vef",
+  "providerId": "claude",
+  "title": "解释笔记分类含义",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776846467961,
+  "updatedAt": 1777690202378,
+  "lastResponseAt": 1776846482642,
+  "sessionId": "3fb3e552-d140-4970-b83f-740fd23f5466",
+  "providerState": {
+    "providerSessionId": "3fb3e552-d140-4970-b83f-740fd23f5466"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

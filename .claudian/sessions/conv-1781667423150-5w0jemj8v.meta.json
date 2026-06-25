@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781667423150-5w0jemj8v",
+  "providerId": "claude",
+  "title": "实现 LLM Wiki 笔记系统",
+  "titleGenerationStatus": "success",
+  "createdAt": 1781667423150,
+  "updatedAt": 1782183433244,
+  "lastResponseAt": 1781667863594,
+  "sessionId": "9cafc9b8-fb07-4d92-893a-0a92045bd41f",
+  "providerState": {
+    "providerSessionId": "9cafc9b8-fb07-4d92-893a-0a92045bd41f"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 19691,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 19691,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}

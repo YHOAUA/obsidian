@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776500421079-c4eyf3gns",
+  "providerId": "claude",
+  "title": "Implement Obsidian 图书库 Bases 结构",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776500421080,
+  "updatedAt": 1776598672968,
+  "lastResponseAt": 1776500618983,
+  "sessionId": "c9a25458-83c2-430f-8181-cd272f0ff295",
+  "providerState": {
+    "providerSessionId": "c9a25458-83c2-430f-8181-cd272f0ff295"
+  },
+  "currentNote": "Assets/未命名.canvas",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

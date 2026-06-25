@@ -1,0 +1,26 @@
+{
+  "id": "conv-1776562566248-2hryyra6z",
+  "providerId": "claude",
+  "title": "Convert fish oil intake advice into two chains",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776562566248,
+  "updatedAt": 1776596806309,
+  "lastResponseAt": 1776563041706,
+  "sessionId": "218343e5-e8ce-49d4-81f6-57b041a91eff",
+  "providerState": {
+    "providerSessionId": "218343e5-e8ce-49d4-81f6-57b041a91eff"
+  },
+  "externalContextPaths": [
+    "/Users/yhoaua/Documents/notess"
+  ],
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

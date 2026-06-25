@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "6311784d821e5e71",
+    "type": "split",
+    "children": [
+      {
+        "id": "45d907b4805874f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7211bddf6e8d5b68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Inbox"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4cd9f0b8bd1a464",
+    "type": "split",
+    "children": [
+      {
+        "id": "09729ad7af26f7d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4725e2c66a7334a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "de44f4851abb4d9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "6a13de6895b95986",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 209.5
+  },
+  "right": {
+    "id": "3896f0faeae7b07a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9c830b948c499b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7185cfbe871ee131",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inbox.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Inbox 的反向链接列表"
+            }
+          },
+          {
+            "id": "52c3cbb2c2a20c6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inbox.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Inbox 的大纲"
+            }
+          },
+          {
+            "id": "f6bd336201e0c48a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-kanban:Create new board": false,
+      "graph:查看关系图谱": false
+    }
+  },
+  "active": "c4725e2c66a7334a",
+  "lastOpenFiles": [
+    "未命名文件夹",
+    "想法/投资晴雨表.md",
+    "Inbox.md",
+    "想法",
+    "参考/LLM.md",
+    "分类/AI.md",
+    "参考/agnet.md",
+    "分类/VPS.md",
+    "参考/诗词.md",
+    "分类/文化.md",
+    "参考/书摘.md",
+    "参考/skill.md",
+    "分类/投资.md",
+    "分类/游戏开发.md",
+    "分类/工具箱.md",
+    "Untitled Kanban.md",
+    "参考/玄学.md",
+    "分类/健康.md",
+    "参考/vibe code.md",
+    "分类/摄影.md",
+    "参考/Unity.md",
+    "参考/游戏引擎.md",
+    "Buffer.md",
+    "MOC.md",
+    "ZEN.canvas",
+    "Drawing 2026-06-23 20.40.15.excalidraw.md",
+    "未命名.canvas",
+    "参考/编程基础.md",
+    "Categories/未命名看板.md",
+    "logseq/bak/Categories/理财",
+    "logseq/bak/Categories",
+    "logseq/bak",
+    "wiki/topics",
+    "wiki/summaries",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki/comparisons",
+    "wiki",
+    "mx-img-pkngy4buwk6e5yqz5wfzayrg-pt10_35s.jpg",
+    "wiki/meta/overview.canvas",
+    "wiki/canvases/main.canvas",
+    "Assets/文化.canvas"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1776331618774-uz26qv2im",
+  "providerId": "claude",
+  "title": "安装 Obsidian kepano 样式",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776331618776,
+  "updatedAt": 1776499854580,
+  "lastResponseAt": 1776499844793,
+  "sessionId": "cde9e84b-20f3-48eb-af3f-edd90dcdb48f",
+  "providerState": {
+    "providerSessionId": "cde9e84b-20f3-48eb-af3f-edd90dcdb48f"
+  },
+  "currentNote": "分类/未命名.canvas",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}
