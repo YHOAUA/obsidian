@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox.md",
+                "file": "分类/VPS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Inbox"
+              "title": "VPS"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox.md",
+                "file": "分类/VPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Inbox 的反向链接列表"
+              "title": "VPS 的反向链接列表"
             }
           },
           {
@@ -114,13 +114,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox.md",
+                "file": "分类/VPS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Inbox 的大纲"
+              "title": "VPS 的大纲"
             }
           },
           {
@@ -143,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
-    "collapsed": true
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,14 +155,15 @@
       "command-palette:打开命令面板": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-kanban:Create new board": false,
-      "graph:查看关系图谱": false
+      "graph:查看关系图谱": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4725e2c66a7334a",
+  "active": "7211bddf6e8d5b68",
   "lastOpenFiles": [
+    "Inbox.md",
     "未命名文件夹",
     "想法/投资晴雨表.md",
-    "Inbox.md",
     "想法",
     "参考/LLM.md",
     "分类/AI.md",
@@ -198,7 +198,6 @@
     "wiki/entities",
     "wiki/concepts",
     "wiki/comparisons",
-    "wiki",
     "mx-img-pkngy4buwk6e5yqz5wfzayrg-pt10_35s.jpg",
     "wiki/meta/overview.canvas",
     "wiki/canvases/main.canvas",
