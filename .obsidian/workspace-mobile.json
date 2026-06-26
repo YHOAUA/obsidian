@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "投资晴雨表"
             }
+          },
+          {
+            "id": "8e73c8c7c8472883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "备忘录.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "备忘录"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,8 +155,11 @@
       "bases:新建数据库": false
     }
   },
-  "active": "bf40c89fdb9f42d3",
+  "active": "8e73c8c7c8472883",
   "lastOpenFiles": [
+    "想法/投资晴雨表.md",
+    "备忘录.md",
+    "参考/Agent.md",
     "Inbox.md",
     "未命名"
   ]
