@@ -1,3 +1,5 @@
+[囤囤鼠的站内SKILL资源收集汇总](https://linux.do/t/topic/1781755)
+
 - [grill-me](https://github.com/mattpocock/skills/blob/main/skills/productivity/grill-me/SKILL.md)
 - [waza](https://github.com/tw93/Waza)
 

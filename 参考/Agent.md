@@ -1,0 +1,4 @@
+- [ ] [《从零开始构建智能体》](https://github.com/datawhalechina/hello-agents)
+- [ ] [Agent 智能体课程](https://www.bilibili.com/video/BV1DfrdByE2H/)
+- [ ] [AI Agent 中文學習地圖](https://github.com/WenyuChiou/awesome-agentic-ai-zh)
+- [ ] [锦恢的 AI Agent 小白教程（一）Agent 的基本概念与分类](https://linux.do/t/topic/1056196)

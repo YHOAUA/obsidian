@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "45d907b4805874f2",
+        "id": "649430f2e741967c",
         "type": "tabs",
         "children": [
           {
-            "id": "7211bddf6e8d5b68",
+            "id": "35f5da53d410949c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "分类/VPS.md",
+                "file": "Inbox.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "VPS"
+              "title": "Inbox"
             }
           }
         ]
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "分类/VPS.md",
+                "file": "Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "VPS 的反向链接列表"
+              "title": "Inbox 的反向链接列表"
             }
           },
           {
@@ -114,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "分类/VPS.md",
+                "file": "Inbox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "VPS 的大纲"
+              "title": "Inbox 的大纲"
             }
           },
           {
@@ -137,13 +136,51 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
+          },
+          {
+            "id": "19c0780e0615ea53",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Inbox.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 3,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6689230604912266,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Inbox 的关系图"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 295.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,37 +196,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7211bddf6e8d5b68",
+  "active": "35f5da53d410949c",
   "lastOpenFiles": [
-    "Inbox.md",
-    "未命名文件夹",
-    "想法/投资晴雨表.md",
-    "想法",
-    "参考/LLM.md",
-    "分类/AI.md",
-    "参考/agnet.md",
-    "分类/VPS.md",
-    "参考/诗词.md",
-    "分类/文化.md",
-    "参考/书摘.md",
-    "参考/skill.md",
-    "分类/投资.md",
+    "参考/编程基础.md",
     "分类/游戏开发.md",
+    "分类/AI.md",
+    "参考/skill.md",
+    "参考/LLM.md",
+    "Inbox.md",
+    "分类/文化.md",
+    "分类/投资.md",
+    "参考/计算机科学.md",
+    "参考/计算机图形学.md",
+    "参考/逆向工程.md",
+    "参考/数学基础.md",
+    "参考/vibe code.md",
+    "参考/Agent.md",
+    "想法/投资晴雨表.md",
+    "分类/VPS.md",
+    "未命名文件夹",
+    "想法",
+    "参考/agnet.md",
+    "参考/诗词.md",
+    "参考/书摘.md",
     "分类/工具箱.md",
     "Untitled Kanban.md",
     "参考/玄学.md",
     "分类/健康.md",
-    "参考/vibe code.md",
     "分类/摄影.md",
     "参考/Unity.md",
     "参考/游戏引擎.md",
-    "Buffer.md",
-    "MOC.md",
     "ZEN.canvas",
-    "Drawing 2026-06-23 20.40.15.excalidraw.md",
     "未命名.canvas",
-    "参考/编程基础.md",
-    "Categories/未命名看板.md",
     "logseq/bak/Categories/理财",
     "logseq/bak/Categories",
     "logseq/bak",
